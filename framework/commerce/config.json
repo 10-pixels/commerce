@@ -1,0 +1,10 @@
+{
+  "provider": "commerce",
+  "features": {
+    "products": true,
+    "wishlist:": true,
+    "customer": true,
+    "cart": true,
+    "auth": true
+  }
+}
